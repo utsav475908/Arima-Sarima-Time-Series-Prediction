@@ -1,0 +1,101 @@
+timestamp	textPayload
+'2026-02-12T18:04:12.905892042Z	Waiting for job to be provisioned.
+'2026-02-12T18:04:12.920958706Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:04:17.934233067Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:04:22.947702969Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:04:27.960242434Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:04:32.971359187Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:04:37.985041420Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:04:42.999302073Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:04:48.013183065Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:04:53.026153687Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:04:58.039729516Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:05:03.050090097Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:05:08.062834458Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:05:13.080665064Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:05:18.093559807Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:05:23.108160769Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:05:28.120940960Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:05:33.131248497Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:05:38.144943452Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:05:43.157357082Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:05:48.170004257Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:05:53.181650412Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:05:58.194009340Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:06:03.204826596Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:06:08.216936802Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:06:13.229557076Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:06:18.241098603Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:06:23.251517857Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:06:28.263368948Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:06:33.273985834Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:06:38.288202049Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:06:43.298516575Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:06:48.309008100Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:06:53.321950108Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:06:58.333841444Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:07:03.344651332Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:07:08.357405049Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:07:13.367919182Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:07:18.381012548Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:07:23.392079080Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:07:28.403463550Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:07:33.415399120Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:07:38.425495742Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:07:43.436119801Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:07:48.446999579Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:07:53.457955970Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:07:58.468022716Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:08:03.480015720Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:08:08.491720190Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:08:13.501159680Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:08:18.511114653Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:08:23.523422504Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:08:28.532283862Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:08:33.544319366Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:08:38.556808100Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:08:43.567105217Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:08:48.577848681Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:08:53.590041430Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:08:58.601891887Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:09:03.611487249Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:09:08.621811575Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:09:13.633244265Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:09:18.643890093Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:09:23.655802043Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:09:28.667434753Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:09:33.679513329Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:09:38.690975616Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:09:43.701160222Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:09:48.712402145Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:09:53.724487204Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:09:58.735619473Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:10:03.745236950Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:10:08.756108874Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:10:13.767340681Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:10:18.780888702Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:10:23.792346145Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:10:28.804270595Z	'Vertex AI is provisioning job running framework. First time usage might take couple of minutes, and subsequent runs can be much faster.
+'2026-02-12T18:10:28.816822013Z	Vertex AI is setting up this job.
+'2026-02-12T18:10:28.843633027Z	Waiting for training program to start.
+'2026-02-12T18:10:32.117811932Z	Job is preparing.
+'2026-02-12T18:16:07.999294785Z	'2026-02-12 18:16:05.893540
+'2026-02-12T18:16:07.999311618Z	QUIP Processing Started
+'2026-02-12T18:16:07.999313545Z	'Args received : Namespace(quip_id='QUIP_FCC3E998E682945762B05648554130EA', data_date='2026-02-11', ecg_path='QUIP_files/QUIP_FC43CE0D333290040EB5DE653F693B26/ECG/', ram_dump='ecg_pwr_vmcu_ramdump.txt', gcs_bucket_input_quip='qed_battery-fnv-diagnostic-data-dev', gcs_bucket_prefix_quip='TEMP/QUIP_Download/2026-02-11/', gcs_bucket_prefix_input='TEMP/QUIP_Download/2026-02-11/QUIP_files/', gcs_bucket_prefix_result='TEMP/QUIP_Download/2026-02-11/results/')
+'2026-02-12T18:16:07.999315154Z	'Starting QUIP processing, creating jira.create_empty_result_dataframe
+'2026-02-12T18:16:07.999316579Z	Starting...
+'2026-02-12T18:16:07.999318245Z	'Missing File client-offer.json
+'2026-02-12T18:16:07.999319804Z	Completed...
+'2026-02-12T18:16:07.999321345Z	Pipeline failed and errors that most likely not being captured in BigQuery: PROCESS_QUIP_ERROR
+'2026-02-12T18:16:08.105775695Z	Job is running.
+'2026-02-12T18:16:27.999735524Z	Traceback (most recent call last):
+'2026-02-12T18:16:27.999736921Z	'File "/app/run_quip_id.py", line 461, in <module>
+'2026-02-12T18:16:28.596665757Z	'logger_util.error(error_message, e, Status.PROCESS_QUIP_ERROR, '')
+'2026-02-12T18:16:28.596676566Z	^^^^^^^^^^^^^^^^^^^^^^^^^
+'2026-02-12T18:16:28.596677826Z	'File "/usr/local/lib/python3.11/enum.py", line 786, in __getattr__
+'2026-02-12T18:16:28.600197560Z	raise AttributeError(name) from None
+'2026-02-12T18:16:28.601796364Z	AttributeError: PROCESS_QUIP_ERROR
+'2026-02-12T18:16:30.498814367Z	Attempt 1 failed: PROCESS_QUIP_ERROR
+'2026-02-12T18:16:33.865940236Z	'The replica workerpool0-0 exited with a non-zero status of 1. Termination reason: Error. To find out more about why your job exited please check the logs: https://console.cloud.google.com/
+'2026-02-12T18:19:59.015609943Z	Finished tearing down training program.
+'2026-02-12T18:19:59.355967600Z	Job failed.
